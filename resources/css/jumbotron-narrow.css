@@ -2,6 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #5C5C5C;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -22,6 +23,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 40px;
+  //color: #2E8AE6;
 }
 
 /* Custom page footer */
@@ -54,6 +56,7 @@ body {
 /* Supporting marketing content */
 .marketing {
   margin: 40px 0;
+  color: #FFF;
 }
 .marketing p + h4 {
   margin-top: 28px;
